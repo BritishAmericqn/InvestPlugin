@@ -1,0 +1,8 @@
+name: Invest
+version: 1.0
+main: arcadering.invest.Invest
+commands:
+  invest:
+    description: A desc here
+    usage: /<command>
+
