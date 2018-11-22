@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Invest.iml" filepath="$PROJECT_DIR$/Invest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Invest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Invest_main.iml" group="Invest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Invest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Invest_test.iml" group="Invest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InvestPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/InvestPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InvestPlugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InvestPlugin_main.iml" group="InvestPlugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InvestPlugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InvestPlugin_test.iml" group="InvestPlugin" />
     </modules>
   </component>
 </project>

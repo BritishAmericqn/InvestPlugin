@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Invest_main" target="1.8" />
       <module name="Invest_test" target="1.8" />
+      <module name="InvestPlugin_main" target="1.8" />
+      <module name="InvestPlugin_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
